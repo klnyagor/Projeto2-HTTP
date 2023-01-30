@@ -1,4 +1,4 @@
-<h1> Projeto 2 - Protoxolo de Intercoexão de Redes de Computadores</h1>
+<h1> Projeto 2 - Protocolo de Interconexão de Redes de Computadores</h1>
 <h2> Descrição </h2>
 
 > * Projeto desenvolvido como atividade referente a matéria Protocolo de Interconexão de Redes de Computadores do curso Tecnologia em Sistemas para internet - IFPB Guarabira.
